@@ -166,6 +166,10 @@ a:hover {
     width: 61px;
     height: 86px;
 }
+#mydiv:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 #mydiv2 {
     position: absolute;
     z-index: 9;
@@ -174,7 +178,10 @@ a:hover {
     width: 125px;
     height: 110px;
 }
-
+#mydiv2:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 #mydiv3 {
     position: absolute;
     z-index: 9;
@@ -183,7 +190,10 @@ a:hover {
     width: 120px;
     height: 110px;
 }
-
+#mydiv3:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 #mydiv4 {
     position: absolute;
     z-index: 9;
@@ -192,7 +202,10 @@ a:hover {
     width: 120px;
     height: 110px;
 }
-
+#mydiv4:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 #mydiv5 {
     position: absolute;
     z-index: 9;
@@ -201,7 +214,10 @@ a:hover {
     width: 120px;
     height: 110px;
 }
-
+#mydiv5:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 #mydiv6 {
     position: absolute;
     z-index: 9;
@@ -210,7 +226,10 @@ a:hover {
     width: 120px;
     height: 110px;
 }
-
+#mydiv6:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 #mydiv7 {
     position: absolute;
     z-index: 9;
@@ -219,7 +238,10 @@ a:hover {
     width: 120px;
     height: 110px;
 }
-
+#mydiv7:hover {
+    opacity: 75%;
+	transition: opacity 0.5s ease-in-out;
+}
 
 @media only screen and (max-width: 1168px){
 	
