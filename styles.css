@@ -66,21 +66,21 @@ footer {
 
 }
 h1 {
-    font-family: 'Bungee Regular', sans-serif;
+    font-family: 'Bungee Regular';
     color: #FFFFFF;
     font-size: 30pt;
     float: left;
     
 }
 h2 {
-    font-family: 'Bungee Regular', sans-serif;
+    font-family: 'Bungee Regular';
     color: #E4032C;
     font-size: 30pt;
 	float: right;
 
 }
 h3 {
-	   font-family: 'Bungee Regular', sans-serif;
+	   font-family: 'Bungee Regular';
     color: #E4032C;
     font-size: 30pt;
 	float: left;
@@ -88,7 +88,7 @@ h3 {
 }
 
 h4 {
-	   font-family: 'Bungee Regular', sans-serif;
+	   font-family: 'Bungee Regular';
     color: #FFFFFF;
     font-size: 30pt;
 	float: right;
@@ -97,7 +97,7 @@ h4 {
 }
 h6{
     font-size: 10pt;
-    font-family: "Odisseia Light", monospace;
+    font-family: "Odisseia Light";
     color: #FFFFFF;
     float: right;
     text-align: right;
@@ -107,7 +107,7 @@ h6{
 
 span{
     font-size: 10pt;
-    font-family: "Odisseia Light",, monospace;
+    font-family: "Odisseia Light";
     color: #E4032C;
     white-space: nowrap;
     position: absolute;
@@ -121,7 +121,7 @@ span{
 p{
     text-align: center;
     font-size: 10pt;
-    font-family: "Odisseia Black",, monospace;
+    font-family: "Odisseia Black";
     color: #FFFFFF;
     padding-top: 20px;
     width: 226px;
@@ -131,7 +131,7 @@ a {
 	color: white;
 	background-color:#E4032C;
 	text-decoration: none;
-	font-family: "Bungee Regular", sans-serif;
+	font-family: "Bungee Regular";
 	
 
 }
